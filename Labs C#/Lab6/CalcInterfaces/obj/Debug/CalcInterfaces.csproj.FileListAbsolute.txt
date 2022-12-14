@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcInterfaces\bin\Debug\CalcInterfaces.dll
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcInterfaces\bin\Debug\CalcInterfaces.pdb
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcInterfaces\obj\Debug\CalcInterfaces.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcInterfaces\obj\Debug\CalcInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcInterfaces\obj\Debug\CalcInterfaces.dll
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcInterfaces\obj\Debug\CalcInterfaces.pdb

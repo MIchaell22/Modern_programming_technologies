@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\bin\Debug\CalcServer.exe.config
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\bin\Debug\CalcServer.exe
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\bin\Debug\CalcServer.pdb
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\bin\Debug\CalcInterfaces.dll
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\bin\Debug\CalcInterfaces.pdb
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\obj\Debug\CalcServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\obj\Debug\CalcServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\obj\Debug\CalcServer.csproj.CopyComplete
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\obj\Debug\CalcServer.exe
+C:\Users\User\Desktop\dotnet\PR_6_WCF\CalcServer\obj\Debug\CalcServer.pdb
